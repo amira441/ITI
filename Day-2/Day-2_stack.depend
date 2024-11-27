@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1732712277 source:c:\users\pc\desktop\new folder (2)\day-2_stack\main.cpp
+	<iostream>
+	"Stack.h"
+	"Queue.h"
+
+1732709939 c:\users\pc\desktop\new folder (2)\day-2_stack\include\stack.h
+	"Node.h"
+
+1732707133 c:\users\pc\desktop\new folder (2)\day-2_stack\include\node.h
+
+1732712332 c:\users\pc\desktop\new folder (2)\day-2_stack\include\queue.h
+
