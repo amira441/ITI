@@ -1,9 +1,9 @@
 #include <iostream>
 #include "Stack.h"
 #include "LinkedList.h"
-#include "LinkedList_Templete.h"
 
 using namespace std;
+
 void SwapArray(int& x,int& y)
 {
     int temp;
