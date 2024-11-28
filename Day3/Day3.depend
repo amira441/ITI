@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1732795114 source:c:\users\pc\desktop\new folder (2)\day3\main.cpp
+	<iostream>
+	"Stack.h"
+	"LinkedList.h"
+
+1732791316 c:\users\pc\desktop\new folder (2)\day3\include\stack.h
+	"Node.h"
+
+1732795114 c:\users\pc\desktop\new folder (2)\day3\include\node.h
+
+1732796038 c:\users\pc\desktop\new folder (2)\day3\include\linkedlist.h
+	"Node.h"
+
